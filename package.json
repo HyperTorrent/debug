@@ -2,6 +2,7 @@
   "name": "@hypertorrent/debug",
   "version": "1.0.0",
   "description": "",
+  "repository": "git@github.com:HyperTorrent/debug.git",
   "main": "dist/debug.js",
   "scripts": {
     "build": "babel src -d dist",
